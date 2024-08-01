@@ -18,7 +18,7 @@ const handleViaEmailClick = () => {
 const ContactViaEmailButton = () => {
     return (
         <a
-            href="mailto:contact@maroon-studio.com"
+            href="mailto:kontakt@studio-bordowe.pl"
             style={{ textDecoration: "none", color: "#73013C" }}
             onClick={handleViaEmailClick}
         >
