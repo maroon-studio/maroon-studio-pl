@@ -75,13 +75,13 @@ const RealValueSampel = () => {
             id: 2,
             icon: data.DataDrivenMarketingData.childImageSharp.fluid,
             title: "Marketing oparty na danych",
-            lore: "Nasze strategie opierają się na dogłębnej analizie danych i badaniach rynku, co gwarantuje skuteczność Twoich kampanii i ich skuteczność w osiąganiu wyników.",
+            lore: "Nasze strategie opierają się na dogłębnej analizie danych i badaniach rynku, co gwarantuje skuteczność Twoich kampanii oraz osiągnięcie wyników.",
         },
         {
             id: 3,
             icon: data.TimeIcon.childImageSharp.fluid,
             title: "Wszelkie realizacje do 72 godzin",
-            lore: "Brzmi podejrzanie? Cóż, nie tym razem... Mamy tak wielu ludzi i dobrze zaprojektowane procesy, że czas dostawy u nas jest jak najkrótszy, a na pewno 72 godziny.",
+            lore: "Brzmi podejrzanie? Cóż, nie tym razem... Mamy tak wielu ludzi i dobrze zaprojektowane procesy, że czas dostawy u nas jest jak najkrótszy i wynosi tylko 72 godziny.",
         },
         {
             id: 4,
