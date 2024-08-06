@@ -32,7 +32,7 @@ const Layout = (props) => {
     }, [])
 
     useEffect(() => {
-        ReactGA.initialize("G-2D0S9C6TVL")
+        ReactGA.initialize("G-1P09FPRHWP")
     }, [])
 
     return (
